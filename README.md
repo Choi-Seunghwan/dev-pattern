@@ -1,34 +1,7 @@
 # dev-pattern
 
-## Project setup
-```
-yarn install
-```
+- 개발 패턴 스터디 Repo
+- CDD (Component Driven Development), Storybook
+- BDD (Behavior Driven Development), Cypress
+- TDD (Test Driven Development), Jest
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Run your end-to-end tests
-```
-yarn test:e2e
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
