@@ -13,7 +13,4 @@ function main() {
   console.log("main");
   test();
 }
-
-main();
-
-module.exports = { main };
+export { main };
